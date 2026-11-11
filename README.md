@@ -1,7 +1,7 @@
 # push_swap: sorting with two stacks
 
 Sorts a list of integers using **two stacks** and a limited set of operations, while printing as
-few operations as possible. A classic 42-network algorithm project.
+few operations as possible. A project from **1337** (42 network).
 
 ## Operations
 `sa` `sb` `ss` (swap) · `pa` `pb` (push) · `ra` `rb` `rr` (rotate) · `rra` `rrb` `rrr` (reverse rotate)
